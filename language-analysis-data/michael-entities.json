@@ -1,0 +1,1713 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 236,
+            "content": "Skills\nFrontend"
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "beginOffset": 300,
+            "content": "webpack\nBackend: REST API"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 366,
+            "content": "development"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "webpack Backend: REST API",
+      "salience": 0.12739675,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 77,
+            "content": "michael-kp-lai"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "michael-kp-lai",
+      "salience": 0.058139008,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 0,
+            "content": "Michael Lai\n+1"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Michael Lai +1",
+      "salience": 0.058139008,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 93,
+            "content": "Education"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Education",
+      "salience": 0.041570086,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 152,
+            "content": "Degree"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Degree",
+      "salience": 0.041570086,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 126,
+            "content": "Toronto"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0h7h6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Toronto"
+      },
+      "name": "Toronto",
+      "salience": 0.028035417,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 188,
+            "content": "Bachelor of Science"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02h4rq6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bachelor_of_Science"
+      },
+      "name": "Bachelor of Science",
+      "salience": 0.024637708,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 209,
+            "content": "Computer Science\nGPA"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01mkq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Computer_science"
+      },
+      "name": "Computer Science GPA",
+      "salience": 0.024637708,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 103,
+            "content": "University of Toronto"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/07wjk",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Toronto"
+      },
+      "name": "University of Toronto",
+      "salience": 0.024637708,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 327,
+            "content": "Node.js"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 767,
+            "content": "Node.js"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0bbxf89",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Node.js"
+      },
+      "name": "Node.js",
+      "salience": 0.020262629,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 336,
+            "content": "Express.js"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 776,
+            "content": "Express.js"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0_v2szx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Express.js"
+      },
+      "name": "Express.js",
+      "salience": 0.020015534,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 591,
+            "content": "Web Developer"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Web Developer",
+      "salience": 0.0143345,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 292,
+            "content": "Vue.js"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11c0vmgx5d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vue.js"
+      },
+      "name": "Vue.js",
+      "salience": 0.01386672,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 564,
+            "content": "Work Experience"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Work Experience",
+      "salience": 0.013348397,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1691,
+            "content": "learning plans"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "learning plans",
+      "salience": 0.0129801165,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 745,
+            "content": "services"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "services",
+      "salience": 0.012214738,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 557,
+            "content": "Linux"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 1377,
+            "content": "Linux"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0fpzzp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Linux"
+      },
+      "name": "Linux",
+      "salience": 0.011233662,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 888,
+            "content": "Stripe"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Stripe",
+      "salience": 0.011233192,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 918,
+            "content": "web applications"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "web applications",
+      "salience": 0.011077771,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 705,
+            "content": "summary"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "summary",
+      "salience": 0.010696555,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 666,
+            "content": "Experience Agency"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Experience Agency",
+      "salience": 0.010696555,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 379,
+            "content": "Stripe\nDatabases"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Stripe Databases",
+      "salience": 0.010603303,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 533,
+            "content": "Jenkins"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 1023,
+            "content": "Jenkins"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0g9x0gr",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jenkins_(software)"
+      },
+      "name": "Jenkins",
+      "salience": 0.010307479,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 717,
+            "content": "bullet"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "bullet",
+      "salience": 0.009814569,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1346,
+            "content": "intern developers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "intern developers",
+      "salience": 0.009771815,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 802,
+            "content": "client-side authentication"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "client-side authentication",
+      "salience": 0.009765765,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 863,
+            "content": "payment processing"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "payment processing",
+      "salience": 0.009747274,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 253,
+            "content": "HTML5"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02pd26x",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/HTML5"
+      },
+      "name": "HTML5",
+      "salience": 0.00929211,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 259,
+            "content": "Pug"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/016wkx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Pug"
+      },
+      "name": "Pug",
+      "salience": 0.00929211,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 264,
+            "content": "CSS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/015tjh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets"
+      },
+      "name": "CSS",
+      "salience": 0.00929211,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 268,
+            "content": "SASS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/054k6n_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)"
+      },
+      "name": "SASS",
+      "salience": 0.00929211,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 274,
+            "content": "JavaScript"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02p97",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/JavaScript"
+      },
+      "name": "JavaScript",
+      "salience": 0.00929211,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 286,
+            "content": "ES6"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/019syg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/ECMAScript"
+      },
+      "name": "ES6",
+      "salience": 0.00929211,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1416,
+            "content": "js services"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "js services",
+      "salience": 0.009090741,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 641,
+            "content": "Motiv Studio"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11gd1s49ds"
+      },
+      "name": "Motiv Studio",
+      "salience": 0.008477211,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1257,
+            "content": "websites"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "websites",
+      "salience": 0.008307616,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1383,
+            "content": "webservers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "webservers",
+      "salience": 0.0082918815,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 547,
+            "content": "JWT"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 835,
+            "content": "JWT"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/013715l_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/JSON_Web_Token"
+      },
+      "name": "JWT",
+      "salience": 0.007864432,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 525,
+            "content": "Docker"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 941,
+            "content": "Docker"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0wkcjgj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Docker_(software)"
+      },
+      "name": "Docker",
+      "salience": 0.007864432,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1222,
+            "content": "webpage load speeds"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "webpage load speeds",
+      "salience": 0.007297356,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1331,
+            "content": "mentorship"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "mentorship",
+      "salience": 0.007290175,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1435,
+            "content": "Assistant"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Assistant",
+      "salience": 0.007277354,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 684,
+            "content": "Calgary"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01r32",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Calgary"
+      },
+      "name": "Calgary",
+      "salience": 0.0071996287,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 425,
+            "content": "DynamoDB\nMiscellaneous: AWS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "DynamoDB Miscellaneous: AWS",
+      "salience": 0.0071368203,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 499,
+            "content": "DigitalOcean"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0wyqzs4",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/DigitalOcean"
+      },
+      "name": "DigitalOcean",
+      "salience": 0.0071368203,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1553,
+            "content": "students"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "students",
+      "salience": 0.006822988,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 352,
+            "content": "WordPress PHP"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 1170,
+            "content": "WordPress"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02vtpl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WordPress"
+      },
+      "name": "WordPress PHP",
+      "salience": 0.006740108,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 760,
+            "content": "Go"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Go",
+      "salience": 0.0065875007,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1717,
+            "content": "comprehension"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "comprehension",
+      "salience": 0.006348239,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 552,
+            "content": "SSH"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0749d",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Secure_Shell"
+      },
+      "name": "SSH",
+      "salience": 0.0063463626,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 542,
+            "content": "Git"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/05vqwg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Git"
+      },
+      "name": "Git",
+      "salience": 0.0063463626,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 693,
+            "content": "AB\nSentence"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "AB Sentence",
+      "salience": 0.0063239406,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 470,
+            "content": "S3"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/025tp88",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Amazon_S3"
+      },
+      "name": "S3",
+      "salience": 0.006268762,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 474,
+            "content": "EC2"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02rkll_",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud"
+      },
+      "name": "EC2",
+      "salience": 0.006268762,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 513,
+            "content": "DNS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/029zm",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Domain_Name_System"
+      },
+      "name": "DNS",
+      "salience": 0.006268762,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 479,
+            "content": "VPC"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/043qty6",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Virtual_private_cloud"
+      },
+      "name": "VPC",
+      "salience": 0.006268762,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 484,
+            "content": "ECS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "ECS",
+      "salience": 0.006268762,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 518,
+            "content": "Nginx"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02qft91",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nginx"
+      },
+      "name": "Nginx",
+      "salience": 0.006268762,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 454,
+            "content": "CloudFormation"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "CloudFormation",
+      "salience": 0.006268762,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 416,
+            "content": "MongoDB"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/05z_r2n",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/MongoDB"
+      },
+      "name": "MongoDB",
+      "salience": 0.006268762,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 404,
+            "content": "PostgreSQL"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/05ynw",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/PostgreSQL"
+      },
+      "name": "PostgreSQL",
+      "salience": 0.006268762,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 397,
+            "content": "MySQL"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/04y3k",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/MySQL"
+      },
+      "name": "MySQL",
+      "salience": 0.006268762,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 489,
+            "content": "Route53"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0hhtm2l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Amazon_Route_53"
+      },
+      "name": "Route53",
+      "salience": 0.006268762,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 737,
+            "content": "RESTful"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/03nsxd",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+      },
+      "name": "RESTful",
+      "salience": 0.005786181,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1293,
+            "content": "frontend web development training"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "frontend web development training",
+      "salience": 0.0055615013,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1090,
+            "content": "infrastructure"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "infrastructure",
+      "salience": 0.005377275,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1411,
+            "content": "Node."
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Node.",
+      "salience": 0.005373872,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1582,
+            "content": "study habits"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "study habits",
+      "salience": 0.0050894823,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1735,
+            "content": "confidence"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "confidence",
+      "salience": 0.005085687,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1651,
+            "content": "student performance"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "student performance",
+      "salience": 0.005085687,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1429,
+            "content": "Kumon"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/026v6w7",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Kumon"
+      },
+      "name": "Kumon",
+      "salience": 0.0048971632,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1617,
+            "content": "learning experiences"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "learning experiences",
+      "salience": 0.004846323,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1070,
+            "content": "application"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "application",
+      "salience": 0.0036510627,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1402,
+            "content": "LEMP"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/077_yj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/LAMP_(software_bundle)"
+      },
+      "name": "LEMP",
+      "salience": 0.0035791814,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1530,
+            "content": "AB"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0j95",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alberta"
+      },
+      "name": "AB",
+      "salience": 0.0034271164,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1506,
+            "content": "Reading Centre\nCalgary"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Reading Centre Calgary",
+      "salience": 0.0034271164,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1035,
+            "content": "projects"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "projects",
+      "salience": 0.0032108761,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1006,
+            "content": "deployment"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "deployment",
+      "salience": 0.0032108761,
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1115,
+            "content": "costs"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "costs",
+      "salience": 0.0032067143,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1196,
+            "content": "design mockups"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "design mockups",
+      "salience": 0.0032029538,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1180,
+            "content": "themes"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "themes",
+      "salience": 0.0032029538,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1141,
+            "content": "Architect"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Architect",
+      "salience": 0.0032029538,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1491,
+            "content": "Kumon Math"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Kumon Math",
+      "salience": 0.003010007,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 952,
+            "content": "AWS Elastic Container Service"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "AWS Elastic Container Service",
+      "salience": 0.0023719622,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 12,
+            "content": "+1 (403) 968 6188"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "area_code": "403",
+        "national_prefix": "1",
+        "number": "9686188"
+      },
+      "name": "+1 (403) 968 6188",
+      "salience": 0.0,
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 171,
+            "content": "May 2023"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "month": "5",
+        "year": "2023"
+      },
+      "name": "May 2023",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 614,
+            "content": "September 2015"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "month": "9",
+        "year": "2015"
+      },
+      "name": "September 2015",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1461,
+            "content": "August 2016"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "month": "8",
+        "year": "2016"
+      },
+      "name": "August 2016",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1477,
+            "content": "February 2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "month": "2",
+        "year": "2019"
+      },
+      "name": "February 2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 231,
+            "content": "4.0"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "4.000000"
+      },
+      "name": "4.0",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 175,
+            "content": "2023"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2023"
+      },
+      "name": "2023",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 25,
+            "content": "6188"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "6188"
+      },
+      "name": "6188",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 21,
+            "content": "968"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "968"
+      },
+      "name": "968",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1132,
+            "content": "60"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "60"
+      },
+      "name": "60",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 16,
+            "content": "403"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "403"
+      },
+      "name": "403",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1277,
+            "content": "70"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "70"
+      },
+      "name": "70",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1486,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 624,
+            "content": "2015"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2015"
+      },
+      "name": "2015",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 12,
+            "content": "+1"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "1"
+      },
+      "name": "+1",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1468,
+            "content": "2016"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2016"
+      },
+      "name": "2016",
+      "salience": 0.0,
+      "type": "NUMBER"
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,179 @@
+{
+  "documentSentiment": {
+    "magnitude": 6.9,
+    "score": 0.2
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Michael Lai\n+1 (403) 968 6188\tmichael.kplai@outlook.com\twww.linkedin.com/in/ michael-kp-lai"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 93,
+        "content": "Education\nUniversity of Toronto, Toronto, ON\t\t\t\t           Degree anticipated May 2023\nHonours Bachelor of Science, Computer Science\nGPA: 4.0"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 236,
+        "content": "Skills\nFrontend: HTML5/Pug, CSS/SASS, JavaScript (ES6), Vue.js, webpack\nBackend: REST API, Node.js, Express.js, Go, WordPress PHP development, Stripe\nDatabases: MySQL, PostgreSQL, MongoDB, DynamoDB\nMiscellaneous: AWS (CloudFormation, S3, EC2, VPC, ECS, Route53), DigitalOcean, DNS, Nginx, Docker, Jenkins, Git, JWT, SSH, Linux"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 564,
+        "content": "Work Experience\nFull-Stack Web Developer\t\t\t\t\t\t    September 2015 ? Present\nMotiv Studio ? Digital Experience Agency\nCalgary, AB\nSentence summary and bullet"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 729,
+        "content": "Develop RESTful services using Go and Node.js (Express.js)"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 792,
+        "content": "Implement client-side authentication using JWT"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      },
+      "text": {
+        "beginOffset": 843,
+        "content": "Implement recurring payment processing using Stripe"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 899,
+        "content": "Deploy autoscaling web applications using Docker and AWS Elastic Container Service"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      },
+      "text": {
+        "beginOffset": 986,
+        "content": "Implement automated deployment using Jenkins for projects company-wide"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1061,
+        "content": "Optimize application hosting infrastructure to reduce costs by roughly 60%"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": 0.6
+      },
+      "text": {
+        "beginOffset": 1141,
+        "content": "Architect and develop custom WordPress themes based on design mockups"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 1215,
+        "content": "Reduce webpage load speeds on media-heavy websites by roughly 70%"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0.2
+      },
+      "text": {
+        "beginOffset": 1285,
+        "content": "Provide frontend web development training and mentorship for intern developers"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 1368,
+        "content": "Maintain Linux webservers running LEMP and Node.js services"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1429,
+        "content": "Kumon Assistant\t\t\t\t\t\t           August 2016 ? February 2019\nKumon Math and Reading Centre\nCalgary, AB"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1537,
+        "content": "Supported young students by reinforcing good study habits and providing focused learning experiences"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1642,
+        "content": "Assessed student performance to create effective learning plans that boost comprehension and confidence"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "documentSentiment": {
+    "magnitude": 3.1,
+    "score": 0.5
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Anish Singla 19 Silverado Skies Lane SW, Calgary, Alberta 403-926-1359 - Singla.anish@yahoo.com\nQUALIFICATION SUMMARY\n? Enthusiastic and dedicated Co-op Computer Science student currently studying in University of Toronto\n? Comfortable with programming in Python, Java, JavaScript, and C, interested in learning new programming languages\n? Able to balance tasks and projects regularly with school assignments or project deadlines\n? Two years of progressive customer service experience while working with multiple jobs and\nprojects\n? Goal oriented with initiative to give exceptional performance with minimal supervision\n  EDUCATIONAL ACHIEVEMENTS\nUniversity of Toronto - Co-op Computer Science, Honors BSc Relevant Courses:\n? Introduction to Computer Science I (CSCA08H3)\n? Introduction to Computer Science II (CSCA48H3)\n? Discrete Mathematics (CSCA67H3)\nSept 2019 ? Projected Jun 2023\n Clubs:\n? VP Operations in the Data Science and Statistics Society at University of Toronto\n? Member in FLC?s (First Year Learning Communities) at University of Toronto\n? Member in AMACSS (The Association of Mathematical and Computer Science Students)\nat University of Toronto\nAwards:\n? University of Toronto Entrance Scholarship ? Sept 2019\n? Alexander Rutherford Scholarship ? July 2019\n? Precision Drilling Employees? Dependent Children Scholarship ? Jun 2019\nLANGUAGES & PROGRAMS\nLanguages: Python, JavaScript, Discord.js, Java, C, Python Unit Testing\nPrograms: Wing IDE, Visual Studio Code, Blender, Eclipse,"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.7,
+        "score": 0.7
+      },
+      "text": {
+        "beginOffset": 1540,
+        "content": "Android Studio, GitHub, Microsoft Office 365, AutoCAD, Adobe Photoshop\nGoogle Cloud Platform: Essentials Certification from Qwiklabs and CDG Cloud Toronto https://google-run.qwiklabs.com/public_profiles/bbd5f283-e489-47f5-bfb6-80457532498c\nACADEMIC PROJECTS\nDiscord Moderation Bot Sept 2017 ? June 2019\n? Made using discord.js and node.js utilizing Visual Code Studio\n? Ran on a PowerShell Console\n? Performs many tasks in a guild such as managing roles and utilizing various API?s to pull\ninformation and display that information\n? Tailored for specific tasks and can be utilized by anyone, also able to run by itself without\nhelp from external sources\nSudoku Game Solver Dec 2019 ? Present\n? Currently working on using Python on Wing IDE, hoping to move to Android Studio and implement a GUI\n? Utilizing Backtracking algorithm"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      },
+      "text": {
+        "beginOffset": 2391,
+        "content": "Rock, Paper Scissors Simulator Sept 2019 ? Present\n? Made using Java on Eclipse, moving to Android Studio and implementing a GUI\n? Performs random generation of moves from the computer and compares them to the\ninputted moves, calculates and outputs the results\nMaze Game Blender Feb 2018 ? Jun 2018\n? Made using blender game engine\n? A basic 3D maze where you can rotate the camera 360 degrees and collect keys to open\nthe exit\nCity of Calgary Hackathon May 2017\n? Researched various solutions to make youth more involved in society/community using https://data.calgary.ca/\n? Designed a very rough prototype of an app which made it much easier for youth to interact with society/community by having jobs and/or events being posted for youth."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 3149,
+        "content": "Where they could search for events/jobs that they were interested in and they had the right skills for\nEMPLOYMENT\nCashier/Counter Attendant\nTim Hortons, Calgary AB Feb 2019 ? May 2019\n? Deliver outstanding customer service in a fast-paced environment by working quickly and efficiently\n? Provided outstanding customer service to large volumes of customers by interactions with our guests\n? Able to process the payment methods in a timely manner\n? Utilized strong public speaking and communication skills with team members to ensure\n product availability for our guests\nMarking and Early Learner Staff Kumon Education Center, Calgary AB\n? Responsible for a student?s academic success\n? Tutoring students of various ages in both Math and English\n? Collaborate with my team members and Student patents\n? Learned new concepts quickly and effectively\nSept 2017 ? Dec 2018\nJul 2018 ? Aug 2018\nApr 2017 & Apr 2018\nPulling School\n& Boxing Staff\nStart, Calgary AB\n? Worked as a Packer, Checker, and a Shipper\n? Learned better time management\nStore Assistance and Cashier The Labyrinth Books, Calgary AB\n? Maintained a positive and enthusiastic attitude in a fast-paced work environment\n? Excellent communication skills, able to relate well with clients, staff and management\nVOLUNTEERING AND EXTRACURRICULAR ACTIVITIES\n? Calgary Public Library - Over 60+ hours in various programs\n? Calgary Police Cadets Corps ? Youth Leadership Program\n? Calgary SWU Soccer -"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": 0.4
+      },
+      "text": {
+        "beginOffset": 4641,
+        "content": "Gold Medalist InterCity Soccer tournament\n? Marathon hosted by Steps off the Street\n? HCS 3000 (Workplace Safety Systems)\n? YMCA and Trico Summer Camps\n? LEAD ? City of Calgary Youth leadership program\nJan 2016 ? Feb 2017 Jun 2016 ? Jun 2017\nSept 2012 - July 2017 April 2017\nMar 2017\nJuly, Aug 2014 & 2015 July 2014 - Aug 2014"
+      }
+    }
+  ]
+}
