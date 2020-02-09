@@ -1,4 +1,5 @@
 import React from 'react';
+// import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './parallaxpic.css';
 
 export class ParallaxPic extends React.Component{
@@ -17,7 +18,7 @@ export class ParallaxPic extends React.Component{
                 <main class="wrapper">
                 <section class="section parallax bg1">
                     <div class="">
-                    <h3 class="introduction">Uncloud Your Hiring Process</h3>
+                    <h3 class="introduction">Serein is a platform that creates transparency in machine learning-assisted hiring processes.</h3>
                     </div>
                 </section>
                 </main>  

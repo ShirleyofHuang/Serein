@@ -1,4 +1,5 @@
 import React from 'react';
+// import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './effects.css';
 import chart from './chart.png'; 
 

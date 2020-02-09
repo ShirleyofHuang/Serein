@@ -12,11 +12,10 @@ function App() {
     <div className="App">
       <Header></Header>
       <ParallaxPic></ParallaxPic>
+      <br>
+      </br>
       <Problem></Problem>
-      <br></br>
-      <br></br>
       <Proposal></Proposal>
-      <Effect></Effect>
       <LiveDemo></LiveDemo>
     </div>
   );

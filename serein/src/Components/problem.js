@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { useState} from 'react';
 import './problem.css';
-import chart from './chart.png'
+import group from './group.png'
 
 
 export class Problem extends React.Component{
@@ -19,19 +19,15 @@ export class Problem extends React.Component{
             <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'></link>
             </div>
             <div class="input-section">
-                <br></br>
-                <br></br>
-            <div class="container">
+            <div class="container" height="auto">
             <div class="row">
             <div class="col-md-6">
-            <h1 class="proposal-title">THE PROBLEM</h1>
+            <h1 class="proposal-title">The Problem</h1>
             <br></br>
-            <br></br>
-            <h3 class = "proposal-subt">A LACK OF TRANSPANRANCY CAUSES DISTRUST IN THE WORKING FORCE</h3>
-            <button type="button" class="btn btn-warning learn-more">LEARN MORE</button>
+            <h3 class = "proposal-subt">Companies are being forced to turn towards strategies to expedite the hiring process at the expense of transparency.</h3>
             </div>
                 <div class="col-md-6">
-                <img src={chart}></img>
+                <img src={group} width="100%"></img>
                 </div>
             </div>
             
