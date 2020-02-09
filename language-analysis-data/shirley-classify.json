@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "confidence": 0.81,
+      "name": "/Science/Computer Science"
+    },
+    {
+      "confidence": 0.72,
+      "name": "/Computers & Electronics/Programming"
+    },
+    {
+      "confidence": 0.51,
+      "name": "/Jobs & Education"
+    }
+  ]
+}

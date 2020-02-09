@@ -1,0 +1,39 @@
+{
+  "documentSentiment": {
+    "magnitude": 1.9,
+    "score": 0.6
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "sentiment": {
+        "magnitude": 0.8,
+        "score": 0.8
+      },
+      "text": {
+        "beginOffset": 0,
+        "content": "Yun Qing (Shirley) Huang 2nd Year Computer Science\nExperience 2019 Summer\nIntern at Chenghang Turbine Technology Co., Ltd\nShanghai, China\nPersonal Information\nPhone (647)-569-9381\nEmail shirley.huang2000@outlook.com\nGitHub https://github.com/ShirleyofHuang\nSkills\nCommunication Skills\nFull Stack Developer\nUI/UX Design\nCustomer Service Representative Android Application Programming\nPython ? Made a visual representation of a computer tree map\nR ? Worked with Riipen to analyze user behaviours with huge data sets\nReact/JavaScript ? Used to create personal website portfolio\nC++ ? Used with Qt to create a UI to control sensors for a turbine\nArduino ? Utilized for external hardware control with user command\nJava ? Created fully functioning android app from scratch\nGit ? Frequent use for version control\nLanguages\nEnglish ? Fluent French ? Fluent Mandarin ? Fluent\n  - Worked with the team that designed the UI for sensors used in the turbine using Qt\n- Doubled as representative for foreign workers\n- Was an integral part of the communication between employees\n2017-2018\nCustomer Representative at Plato?s Closet\n- Efficient team member and competent team leader\n- Worked well under pressure in a fast-paced environment\n- Excellent communication skills\nEducation\n2018-Present\nUniversity of Toronto\nCalgary, AB\n  - Bachelor of Science, Computer Science Specialist, Statistics Minor (3.65 cGPA)\nRelevant Courses\n- Software Design: Mainly practiced using SOLID principles to design projects in\nJava\n- Introduction to Theory"
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      },
+      "text": {
+        "beginOffset": 1546,
+        "content": "of Computation: Studied proof structures as well as\nrunning time analysis\n- Computer Organization: Learnt Assembly Language and dove deep into low level\ncoding\n- Software Tools and Systems Programming: Learning to use software\ntechniques in Unix environment, using scripting language and C\n- Data Structures and Analysis: Learning algorithm analysis as well as many other\nabstract data structures."
+      }
+    },
+    {
+      "sentiment": {
+        "magnitude": 0.0,
+        "score": 0.0
+      },
+      "text": {
+        "beginOffset": 1944,
+        "content": "Personal Projects\n2020\nStarterHacks ? Recipient of ?The Future of ATMs? award presented by RBC\n- In a group of 5, we created a new software features to increase the speed and efficiency of withdrawing cash from ATMs\n- Created a full stack program with Django and React that can read and generate QR codes 2019\n2019\nPersonal Web Portfolio ? React\n- Created a webpage from scratch using the React Library\n- Explored Bootstrap as well as many other libraries\n- Used proficiency in CSS and JavaScript to create components in solo project\n2019\nAndroid Game Application ? Java\n- Worked in a small group of 6 members to create an android game\n- Used SQLite to store and manage data\n- Designed code structure as well as hierarchy of classes to increase efficiency\n- Worked with front end as well as backend\n2019\nPueblo Science Hackathon\n- Joined a group of four to create a robotics kit for underprivileged communities in Guyana\n- Used Arduino with C++ to synchronize sensors with an automated appliance Volunteering\n2019-Present\nOffice Ops for CSSU (Computer Science Student Union)\n- Responsible for keeping the common room safe\n- Give proper advice to Computer Science students\n- Representative of the CSSU"
+      }
+    }
+  ]
+}

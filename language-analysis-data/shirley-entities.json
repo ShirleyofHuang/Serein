@@ -1,0 +1,2525 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 614,
+            "content": "UI"
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "beginOffset": 867,
+            "content": "Mandarin"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 930,
+            "content": "UI"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01r2l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Chinese_language"
+      },
+      "name": "Mandarin",
+      "salience": 0.07699161,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 719,
+            "content": "Java"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 706,
+            "content": "user command"
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "beginOffset": 2520,
+            "content": "Java"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/07sbkfb",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Java_(programming_language)"
+      },
+      "name": "Java",
+      "salience": 0.07613046,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 628,
+            "content": "sensors"
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "beginOffset": 2914,
+            "content": "sensors"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "sensors",
+      "salience": 0.06853458,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 359,
+            "content": "Application Programming\nPython"
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "beginOffset": 351,
+            "content": "Android"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 2491,
+            "content": "Android"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02wxtgw",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Android_(operating_system)"
+      },
+      "name": "Android",
+      "salience": 0.0457408,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 581,
+            "content": "C++"
+          },
+          "type": "COMMON"
+        },
+        {
+          "text": {
+            "beginOffset": 2895,
+            "content": "C++"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0jgqg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/C++"
+      },
+      "name": "C++",
+      "salience": 0.041859686,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 319,
+            "content": "Customer Service Representative"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Customer Service Representative",
+      "salience": 0.03255956,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 408,
+            "content": "representation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "representation",
+      "salience": 0.025848594,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 67,
+            "content": "Summer\nIntern"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Summer Intern",
+      "salience": 0.023007285,
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 428,
+            "content": "computer tree map"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "computer tree map",
+      "salience": 0.023007285,
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 779,
+            "content": "Git"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 771,
+            "content": "scratch"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/05vqwg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Git"
+      },
+      "name": "Git",
+      "salience": 0.019582774,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 907,
+            "content": "team"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "team",
+      "salience": 0.018747753,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 524,
+            "content": "JavaScript"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 2438,
+            "content": "JavaScript"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02p97",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/JavaScript"
+      },
+      "name": "JavaScript",
+      "salience": 0.018635154,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 216,
+            "content": "GitHub https://github.com/ShirleyofHuang\nSkills\nCommunication Skills\nFull Stack Developer\nUI"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "GitHub https://github.com/ShirleyofHuang Skills Communication Skills Full Stack Developer UI",
+      "salience": 0.017017443,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 309,
+            "content": "UX Design"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/120_g8jl",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/User_experience_design"
+      },
+      "name": "UX Design",
+      "salience": 0.0155306235,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 84,
+            "content": "Chenghang Turbine Technology Co."
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Chenghang Turbine Technology Co.",
+      "salience": 0.0155306235,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 138,
+            "content": "Personal Information\nPhone"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Personal Information Phone",
+      "salience": 0.013651551,
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 446,
+            "content": "R"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "R",
+      "salience": 0.013651551,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 132,
+            "content": "China"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0d05w3",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/China"
+      },
+      "name": "China",
+      "salience": 0.013651551,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 0,
+            "content": "Yun Qing (Shirley) Huang 2nd Year Computer Science\nExperience"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Yun Qing (Shirley) Huang 2nd Year Computer Science Experience",
+      "salience": 0.013651551,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 118,
+            "content": "Ltd\nShanghai"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Ltd Shanghai",
+      "salience": 0.013651551,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 650,
+            "content": "Arduino"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 2882,
+            "content": "Arduino"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0djmwv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Arduino"
+      },
+      "name": "Arduino",
+      "salience": 0.012597372,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 804,
+            "content": "version control\nLanguages"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "version control Languages",
+      "salience": 0.0109185,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 642,
+            "content": "turbine"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "turbine",
+      "salience": 0.0109185,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 571,
+            "content": "portfolio"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "portfolio",
+      "salience": 0.009962008,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 684,
+            "content": "hardware control"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "hardware control",
+      "salience": 0.009962008,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 599,
+            "content": "Qt"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 971,
+            "content": "Qt"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Qt",
+      "salience": 0.009503383,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1953,
+            "content": "Projects"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Projects",
+      "salience": 0.0092987595,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 762,
+            "content": "app"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "app",
+      "salience": 0.008753871,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 482,
+            "content": "user behaviours"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "user behaviours",
+      "salience": 0.008753871,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 796,
+            "content": "use"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "use",
+      "salience": 0.008753871,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 508,
+            "content": "data sets"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "data sets",
+      "salience": 0.008753871,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 563,
+            "content": "website"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "website",
+      "salience": 0.008753871,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1094,
+            "content": "Customer Representative"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Customer Representative",
+      "salience": 0.008392531,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1052,
+            "content": "communication"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "communication",
+      "salience": 0.008392531,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 987,
+            "content": "representative"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "representative",
+      "salience": 0.008392531,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1257,
+            "content": "communication skills"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "communication skills",
+      "salience": 0.0074651353,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1504,
+            "content": "projects"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "projects",
+      "salience": 0.0074651353,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1208,
+            "content": "pressure"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "pressure",
+      "salience": 0.0073740627,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 957,
+            "content": "turbine"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "turbine",
+      "salience": 0.0073740627,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 937,
+            "content": "sensors"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "sensors",
+      "salience": 0.0073740627,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1437,
+            "content": "Software Design"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Software Design",
+      "salience": 0.006810185,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1150,
+            "content": "team member"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "team member",
+      "salience": 0.0067270775,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1040,
+            "content": "part"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "part",
+      "salience": 0.0064407517,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1483,
+            "content": "principles"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "principles",
+      "salience": 0.0060571376,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1539,
+            "content": "Theory"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Theory",
+      "salience": 0.0059831934,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1360,
+            "content": "Computer Science Specialist"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Computer Science Specialist",
+      "salience": 0.0059831934,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1339,
+            "content": "Bachelor of Science"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Bachelor of Science",
+      "salience": 0.0059831934,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1389,
+            "content": "Statistics Minor"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Statistics Minor",
+      "salience": 0.0059831934,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1427,
+            "content": "Courses"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Courses",
+      "salience": 0.0059831934,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1074,
+            "content": "employees"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "employees",
+      "salience": 0.0059101493,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1014,
+            "content": "workers"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "workers",
+      "salience": 0.0059101493,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1176,
+            "content": "team leader"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "team leader",
+      "salience": 0.0059101493,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 464,
+            "content": "Riipen"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11c73fm2vn"
+      },
+      "name": "Riipen",
+      "salience": 0.0051797754,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 830,
+            "content": "English"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02h40lc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/English_language"
+      },
+      "name": "English",
+      "salience": 0.0051797754,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1549,
+            "content": "Computation"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Computation",
+      "salience": 0.0046459525,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2950,
+            "content": "Volunteering\n2019"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 2940,
+            "content": "appliance"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Volunteering 2019",
+      "salience": 0.004637045,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1570,
+            "content": "proof structures"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "proof structures",
+      "salience": 0.003850196,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1412,
+            "content": "cGPA"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01kv25",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Grading_in_education"
+      },
+      "name": "cGPA",
+      "salience": 0.0035384235,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1323,
+            "content": "Calgary"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01r32",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Calgary"
+      },
+      "name": "Calgary",
+      "salience": 0.0035384235,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1278,
+            "content": "Education\n2018"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Education 2018",
+      "salience": 0.0035384235,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1516,
+            "content": "Java\n- Introduction"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Java - Introduction",
+      "salience": 0.0035384235,
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1301,
+            "content": "University of Toronto"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11cs5dptfz"
+      },
+      "name": "University of Toronto",
+      "salience": 0.0035384235,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1332,
+            "content": "AB"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "AB",
+      "salience": 0.0035384235,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1927,
+            "content": "data structures"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "data structures",
+      "salience": 0.0035326502,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1834,
+            "content": "C\n- Data Structures"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "C - Data Structures",
+      "salience": 0.0035326502,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1121,
+            "content": "Plato"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Plato",
+      "salience": 0.003495176,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1131,
+            "content": "Closet\n- Efficient"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Closet - Efficient",
+      "salience": 0.003495176,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 849,
+            "content": "French"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/064_8sq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/French_language"
+      },
+      "name": "French",
+      "salience": 0.003495176,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1811,
+            "content": "scripting language"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "scripting language",
+      "salience": 0.0033300805,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1858,
+            "content": "Analysis"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Analysis",
+      "salience": 0.0032893755,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1868,
+            "content": "Learning algorithm analysis"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Learning algorithm analysis",
+      "salience": 0.0032893755,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1727,
+            "content": "Systems Programming"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Systems Programming",
+      "salience": 0.0032893755,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2459,
+            "content": "components"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "components",
+      "salience": 0.0031967927,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1792,
+            "content": "environment"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "environment",
+      "salience": 0.0030002603,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1748,
+            "content": "Learning"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Learning",
+      "salience": 0.0030002603,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1764,
+            "content": "software\ntechniques"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "software techniques",
+      "salience": 0.0030002603,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2183,
+            "content": "stack program"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "stack program",
+      "salience": 0.0027617402,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2640,
+            "content": "code structure"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "code structure",
+      "salience": 0.002648935,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1708,
+            "content": "Software Tools"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Software Tools",
+      "salience": 0.0026353446,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2022,
+            "content": "award"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "award",
+      "salience": 0.0026222314,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1984,
+            "content": "Recipient"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Recipient",
+      "salience": 0.0026222314,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2478,
+            "content": "project"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "project",
+      "salience": 0.0024664456,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2499,
+            "content": "Game Application"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Game Application",
+      "salience": 0.0024664456,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2545,
+            "content": "group"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "group",
+      "salience": 0.0024664456,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1631,
+            "content": "Organization"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Organization",
+      "salience": 0.0023883116,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2556,
+            "content": "members"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "members",
+      "salience": 0.0022495834,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2666,
+            "content": "hierarchy"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "hierarchy",
+      "salience": 0.0019758854,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2745,
+            "content": "backend"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "backend",
+      "salience": 0.0019758854,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2730,
+            "content": "end"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "end",
+      "salience": 0.0019758854,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2679,
+            "content": "classes"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "classes",
+      "salience": 0.0019758854,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2415,
+            "content": "proficiency"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "proficiency",
+      "salience": 0.0019758854,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2853,
+            "content": "communities"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "communities",
+      "salience": 0.00196531,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 3128,
+            "content": "Representative"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Representative",
+      "salience": 0.00196531,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1645,
+            "content": "Learnt Assembly Language"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Learnt Assembly Language",
+      "salience": 0.0019442979,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2000,
+            "content": "The Future of ATMs"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "The Future of ATMs",
+      "salience": 0.0017644796,
+      "type": "WORK_OF_ART"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2794,
+            "content": "group"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "group",
+      "salience": 0.00172617,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 3117,
+            "content": "students"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "students",
+      "salience": 0.0015743478,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1787,
+            "content": "Unix"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/07scx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Unix"
+      },
+      "name": "Unix",
+      "salience": 0.0015575128,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1967,
+            "content": "StarterHacks"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11g2xnpjw1"
+      },
+      "name": "StarterHacks",
+      "salience": 0.0015497587,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2820,
+            "content": "robotics kit"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "robotics kit",
+      "salience": 0.0013827492,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 3066,
+            "content": "room"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "room",
+      "salience": 0.0012530625,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2246,
+            "content": "QR codes"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "QR codes",
+      "salience": 0.0012460186,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 3100,
+            "content": "Computer Science"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01mkq",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Computer_science"
+      },
+      "name": "Computer Science",
+      "salience": 0.0012201063,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2597,
+            "content": "SQLite"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/01kgq9",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/SQLite"
+      },
+      "name": "SQLite",
+      "salience": 0.0011676167,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2430,
+            "content": "CSS"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/015tjh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets"
+      },
+      "name": "CSS",
+      "salience": 0.0011676167,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2081,
+            "content": "software"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "software",
+      "salience": 0.001161314,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2052,
+            "content": "group"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "group",
+      "salience": 0.0010812565,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 3090,
+            "content": "advice"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "advice",
+      "salience": 0.0010546737,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2274,
+            "content": "Web Portfolio"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "Web Portfolio",
+      "salience": 0.0009861301,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2323,
+            "content": "scratch"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "scratch",
+      "salience": 0.0009861301,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2125,
+            "content": "efficiency"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "efficiency",
+      "salience": 0.0009861301,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 3150,
+            "content": "CSSU"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "CSSU",
+      "salience": 0.0009302622,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2310,
+            "content": "webpage"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "webpage",
+      "salience": 0.00086608826,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2151,
+            "content": "cash"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "cash",
+      "salience": 0.00086608826,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2115,
+            "content": "speed"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "speed",
+      "salience": 0.00086608826,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2976,
+            "content": "Office Ops for CSSU"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Office Ops for CSSU",
+      "salience": 0.0008170185,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2868,
+            "content": "Guyana"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/034m8",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Guyana"
+      },
+      "name": "Guyana",
+      "salience": 0.0008170185,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2997,
+            "content": "Computer Science Student Union"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/g/11gsv4zdbv"
+      },
+      "name": "Computer Science Student Union",
+      "salience": 0.0008170185,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2758,
+            "content": "Pueblo Science Hackathon"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Pueblo Science Hackathon",
+      "salience": 0.0008170185,
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2213,
+            "content": "React"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/012l1vxv",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/React_(web_framework)"
+      },
+      "name": "React",
+      "salience": 0.0006388396,
+      "type": "EVENT"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2161,
+            "content": "ATMs"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/0cldt",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Automated_teller_machine"
+      },
+      "name": "ATMs",
+      "salience": 0.00058262516,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2341,
+            "content": "React Library\n- Explored Bootstrap"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "React Library - Explored Bootstrap",
+      "salience": 0.0005180306,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2041,
+            "content": "RBC"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/02wjhf",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Royal_Bank_of_Canada"
+      },
+      "name": "RBC",
+      "salience": 0.00051169016,
+      "type": "ORGANIZATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2202,
+            "content": "Django"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/06y_qx",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Django_(web_framework)"
+      },
+      "name": "Django",
+      "salience": 0.00051169016,
+      "type": "OTHER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 165,
+            "content": "(647)-569-9381"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "area_code": "647",
+        "national_prefix": "1",
+        "number": "5699381"
+      },
+      "name": "(647)-569-9381",
+      "salience": 0.0,
+      "type": "PHONE_NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 62,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1084,
+            "content": "2017"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2017"
+      },
+      "name": "2017",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1089,
+            "content": "2018"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2018"
+      },
+      "name": "2018",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1288,
+            "content": "2018"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2018"
+      },
+      "name": "2018",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1962,
+            "content": "2020"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2020"
+      },
+      "name": "2020",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2255,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2260,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2486,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2753,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2963,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "year": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "DATE"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2255,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2260,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2554,
+            "content": "6"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "6"
+      },
+      "name": "6",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1288,
+            "content": "2018"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2018"
+      },
+      "name": "2018",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1962,
+            "content": "2020"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2020"
+      },
+      "name": "2020",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 166,
+            "content": "647"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "647"
+      },
+      "name": "647",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2753,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 170,
+            "content": "-569"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "-569"
+      },
+      "name": "-569",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2963,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1084,
+            "content": "2017"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2017"
+      },
+      "name": "2017",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2803,
+            "content": "four"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "4"
+      },
+      "name": "four",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2061,
+            "content": "5"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "5"
+      },
+      "name": "5",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 25,
+            "content": "2"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2"
+      },
+      "name": "2",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 62,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 175,
+            "content": "9381"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "9381"
+      },
+      "name": "9381",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1407,
+            "content": "3.65"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "3.650000"
+      },
+      "name": "3.65",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 2486,
+            "content": "2019"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2019"
+      },
+      "name": "2019",
+      "salience": 0.0,
+      "type": "NUMBER"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 1089,
+            "content": "2018"
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ],
+      "metadata": {
+        "value": "2018"
+      },
+      "name": "2018",
+      "salience": 0.0,
+      "type": "NUMBER"
+    }
+  ],
+  "language": "en"
+}
