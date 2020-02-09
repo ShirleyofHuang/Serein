@@ -23,7 +23,7 @@ import {
     CardBody
   } from 'reactstrap';
 
-export class Balance extends React.Component{
+export class LiveDemo extends React.Component{
     drawChart() {
         var data = {
             labels: ["Hard Skills", "Initiative", "Creativity", "Attitude"],

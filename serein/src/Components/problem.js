@@ -7,7 +7,7 @@ import chart from './chart.png'
 import ModalExample from './modal';
 
 
-export class InputForm extends React.Component{
+export class Problem extends React.Component{
     state = { show: false };
 
     showModal = () => {

@@ -5,7 +5,7 @@ import './effects.css';
 import ModalExample from './modal';
 import chart from './chart.png'; 
 
-export class Contacts extends React.Component{
+export class Effects extends React.Component{
 
     render(){
         return (

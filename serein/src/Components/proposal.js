@@ -5,7 +5,7 @@ import './proposal.css';
 import ModalExample from './modal';
 import chart from './chart.png'; 
 
-export class GiveMoney extends React.Component{
+export class Proposal extends React.Component{
 
     render(){
         return (
