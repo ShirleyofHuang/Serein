@@ -1,8 +1,7 @@
 import React from 'react';
-import { Parallax, Background } from 'react-parallax';
 // import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './proposal.css';
-import chart from './chart.png'; 
+import highlight from './highlight.jpg';
 
 export class Proposal extends React.Component{
 
@@ -21,13 +20,13 @@ export class Proposal extends React.Component{
             <div class="container proposal">
             <div class="row">
 
-            <div class="col-md-6">
-                <img src={chart}></img>
+            <div class="col-md-6" style={{'vertical-align': 'middle', 'margin-top': '15%'}}>
+                <img src={highlight} width="100%"></img>
             </div>
             <div class="col-md-6">
-            <h1 class="proposal-title">OUR PROPOSAL</h1>
-            <h3 class = "proposal-sub">USING A GOOGLE API WE CREATE A WAY TO ELIMINATE DISCRIMINATION AND INCREASE EFFICIENCY</h3>
-            <button type="button" class="btn btn-warning learn-more">LEARN MORE</button>
+            <h1 class="proposal-title">Our Solution</h1>
+            <br></br>
+            <h3 class = "proposal-subt">Using Google Cloud Natural Language analysis we can quantify applicant strength and hiring criteria into a clear criteria shared with applicant and employer.</h3>
             </div>
           
             </div>

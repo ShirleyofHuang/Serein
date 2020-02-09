@@ -1,8 +1,6 @@
 import React from 'react';
-import { Parallax, Background } from 'react-parallax';
 // import laptop from '../ParalaxPics/laptopcafe.jpg';
 import Chart from 'chart.js'
-import chart from './chart.png';
 import './livedemo.css';
 import {
     Collapse,
@@ -138,18 +136,16 @@ export class LiveDemo extends React.Component{
            
             <div>
                 <br></br>
-                <h2>LIVE DEMO</h2>
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src={chart}></img>
-                    </div>
-                    <div class="col-md-6">
+                <h2>Demo</h2>
+                <div class="row justify-content-center">
+                    <div class="col-md-12">
+                    <h6>By analyzing 3 of our own resumes using Google Cloud API sentiment and entity analysis we quantified our strengths to compare with a sample job listing.</h6>
                     <Button color="warning" id="toggler1" style={{ marginBottom: '1rem' }} onClick={this.drawChart}>
-                        GENERATE JOB POSTING CHART
+                        Show Applicant Strength
                     </Button>
                     
-                    <div class="col-md-6">
-                        <canvas id="myChart" width="400px" height="400px"></canvas>
+                    <div class="col col-md-12">
+                        <canvas style={{'margin': 'auto', 'max-width': '50%'}} id="myChart" width="400px" height="400px"></canvas>
                     </div>
 
                     </div>

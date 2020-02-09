@@ -13,10 +13,7 @@ function App() {
       <Header></Header>
       <ParallaxPic></ParallaxPic>
       <Problem></Problem>
-      <br></br>
-      <br></br>
       <Proposal></Proposal>
-      <Effect></Effect>
       <LiveDemo></LiveDemo>
     </div>
   );
