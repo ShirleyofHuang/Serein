@@ -1,21 +1,5 @@
 import React, { useState } from 'react';
 import logo from './serein.jpg';
-import {
-  Collapse,
-  Navbar,
-  NavbarToggler,
-  NavbarBrand,
-  Nav,
-  NavItem,
-  NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
-  NavbarText,
-  Form
-} from 'reactstrap';
-
 import './header.css';
 
 

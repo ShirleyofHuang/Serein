@@ -1,6 +1,4 @@
 import React from 'react';
-import { Parallax, Background } from 'react-parallax';
-// import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './effects.css';
 import chart from './chart.png'; 
 

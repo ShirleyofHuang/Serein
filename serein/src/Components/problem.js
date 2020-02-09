@@ -1,6 +1,4 @@
-import React, { useState} from 'react';
-import { Parallax, Background } from 'react-parallax';
-// import laptop from '../ParalaxPics/laptopcafe.jpg';
+import React from 'react';
 import './problem.css';
 import chart from './chart.png'
 

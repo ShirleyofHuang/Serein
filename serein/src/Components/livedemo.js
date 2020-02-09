@@ -1,6 +1,4 @@
 import React from 'react';
-import { Parallax, Background } from 'react-parallax';
-// import laptop from '../ParalaxPics/laptopcafe.jpg';
 import Chart from 'chart.js'
 import chart from './chart.png';
 import './livedemo.css';
@@ -88,39 +86,8 @@ export class LiveDemo extends React.Component{
             data: data,
             options: options
         });
-        // Chart.helpers.bindEvents(myRadarChart, ['mousedown'], function(evt) {
-        //     var lastMousePosition = [evt.x, evt.y];
-        //   console.log('mousedown');
-        //   var lastActive = myRadarChart.lastActive;
-        //     if (Array.isArray(lastActive) && lastActive.length) {
-        //       lastActive = lastActive[0];
-        //     console.log(lastActive);
-        //       var moveHandler = function (evt) {
-        //               var index = lastActive._index;
-        //           var dataset = lastActive._datasetIndex;
-        //         console.log('mouse move');
-        //           if (evt.y < lastMousePosition[1]) {
-        //               myRadarChart.data.datasets[dataset].data[index] = myRadarChart.data.datasets[dataset].data[index] + 1;
-        //             myRadarChart.update(1, false);
-        //           } else if (evt.y > lastMousePosition[1]) {
-        //             myRadarChart.data.datasets[dataset].data[index] = myRadarChart.data.datasets[dataset].data[index] - 1;
-        //           myRadarChart.update(1, false);
-        //         }
-        //       lastMousePosition = [evt.x, evt.y];
-        //       };
-        //     var outHandler = function () {
-        //       console.log('unbinding');
-        //       Chart.helpers.unbindEvents(myRadarChart, {'mousemove': moveHandler});
-        //       Chart.helpers.unbindEvents(myRadarChart, {'mouseup': outHandler});
-        //       Chart.helpers.unbindEvents(myRadarChart, {'mouseout': outHandler});
-        //     }
-        //       Chart.helpers.bindEvents(myRadarChart, ['mousemove'], moveHandler);
-        //     Chart.helpers.bindEvents(myRadarChart, ['mouseup'], outHandler);
-        //     Chart.helpers.bindEvents(myRadarChart, ['mouseout'], outHandler);
-        //   }
-        // });
+       
     }
-
 
     render(){  
         return (
