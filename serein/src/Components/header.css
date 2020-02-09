@@ -1,0 +1,31 @@
+.navbar{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 5px;
+    color:black !important;
+}
+
+.nav{
+    background: black;
+    color: white;
+}
+
+.navbar-brand{
+    margin-left: 0;
+    padding:0;
+}
+
+.navbarcontent{
+    color:white;
+    font-size: small;
+    /* float: left; */
+}
+
+.start{
+    size: 5px;
+    color:white;
+}
+
+
+.logo{
+    float: left;
+}
