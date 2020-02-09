@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ModalB from './modellogin';
 import logo from './serein.jpg';
 import {
   Collapse,

@@ -3,21 +3,10 @@ import { Parallax, Background } from 'react-parallax';
 // import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './problem.css';
 import chart from './chart.png'
-// import {Example} from './modal';
-import ModalExample from './modal';
 
 
 export class Problem extends React.Component{
-    state = { show: false };
 
-    showModal = () => {
-      this.setState({ show: true });
-    };
-  
-    hideModal = () => {
-      this.setState({ show: false });
-    };
-  
     render(){
         return (
             <div>

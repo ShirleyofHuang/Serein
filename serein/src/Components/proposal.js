@@ -2,7 +2,6 @@ import React from 'react';
 import { Parallax, Background } from 'react-parallax';
 // import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './proposal.css';
-import ModalExample from './modal';
 import chart from './chart.png'; 
 
 export class Proposal extends React.Component{

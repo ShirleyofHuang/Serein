@@ -2,10 +2,9 @@ import React from 'react';
 import { Parallax, Background } from 'react-parallax';
 // import laptop from '../ParalaxPics/laptopcafe.jpg';
 import './effects.css';
-import ModalExample from './modal';
 import chart from './chart.png'; 
 
-export class Effects extends React.Component{
+export class Effect extends React.Component{
 
     render(){
         return (
